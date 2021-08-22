@@ -1,3 +1,7 @@
 # hello-world
 
-Hello, just new here; learning.
+Just another repository
+
+Hello,
+I am here to learn and showcase what I know for career and personal advancement.
+
